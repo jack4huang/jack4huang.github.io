@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "Google",
-        href: "httpw://www.google.com"
+        href: "https://www.google.com"
     }
 ]
 
